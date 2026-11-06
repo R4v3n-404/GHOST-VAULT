@@ -1,0 +1,3 @@
+H1	Duplicates hide a single line. Counting lines is easier after sorting.
+H2	`sort` makes identical lines adjacent; `uniq -u` prints only lines that appear once.
+H3	`sort signals.txt | uniq -u`   (or `sort signals.txt | uniq -c | sort -n`)

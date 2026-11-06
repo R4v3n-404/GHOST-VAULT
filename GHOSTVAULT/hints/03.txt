@@ -1,0 +1,3 @@
+H1	`ls` hides names that begin with a dot.
+H2	Use `ls -a` on the `vault` directory, then read the dotfile that is not a directory.
+H3	`cd vault && ls -a`   then   `cat .hidden`

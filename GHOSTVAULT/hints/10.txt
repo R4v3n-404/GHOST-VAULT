@@ -1,0 +1,3 @@
+H1	The file is text, but the text is an encoding of the real message.
+H2	`base64` decodes with `-d` (or `--decode`). Without `-d` it encodes.
+H3	`base64 -d transmission.b64`

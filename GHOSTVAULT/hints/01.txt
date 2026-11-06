@@ -1,0 +1,3 @@
+H1	The filename is a single dash. A bare dash means standard input to many commands.
+H2	Give the shell a path so the dash is not read as an option. Prefix it with `./`.
+H3	`cat ./-`

@@ -1,0 +1,3 @@
+H1	The shell splits arguments on spaces, so the filename must be protected.
+H2	Quote the whole name, or escape each space with a backslash. Tab completion helps too.
+H3	`cat "field report.txt"`   (or `cat field\ report.txt`)

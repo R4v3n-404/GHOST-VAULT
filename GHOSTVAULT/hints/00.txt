@@ -1,0 +1,3 @@
+H1	List everything in your home directory. The file is not hidden.
+H2	`ls` first, then read the file named `readme` with `cat`.
+H3	`cat readme`
