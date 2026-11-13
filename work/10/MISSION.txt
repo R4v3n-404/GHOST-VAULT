@@ -1,0 +1,13 @@
+STAGE 10 — THE ENCODED MESSAGE
+==============================
+
+transmission.b64 is base64-encoded text.
+Decode it. The master key is inside.
+
+Skill: base64 -d
+
+WHEN YOU HAVE THE KEY
+  exit
+  ./play.sh finish <MASTER KEY>
+
+Type mission to read this again, hint for a nudge, exit to leave.

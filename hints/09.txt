@@ -1,0 +1,3 @@
+H1	The file contains binary noise, but readable strings are embedded in it.
+H2	`strings` extracts printable sequences. Filter them with `grep`.
+H3	`strings artifact.bin | grep '=='`

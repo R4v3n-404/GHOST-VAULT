@@ -1,0 +1,3 @@
+H1	Several filters combine here: type, size range, group, modification time, and a name pattern.
+H2	`find` supports `-size +2047c -size -3073c`, `-group`, `-newer`, and `-name '*.log'`.
+H3	`find depot -type f -size +2047c -size -3073c -group "$(id -gn)" -newer depot/.stamp -name '*.log'`

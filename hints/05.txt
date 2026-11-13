@@ -1,0 +1,3 @@
+H1	You need files filtered by exact size in bytes, not by name.
+H2	`find` has `-size` (use the `c` suffix for bytes) and `-executable` with `!` to negate.
+H3	`find haystack -type f -size 1337c ! -executable`

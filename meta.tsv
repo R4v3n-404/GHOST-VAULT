@@ -1,0 +1,11 @@
+0|First Contact|ls · cat · pwd
+1|The Nameless File|dashes · ./
+2|Spaces in the Name|quoting · escaping · tab
+3|What ls Hides|hidden files · ls -a
+4|Trust the Contents|file · find + xargs
+5|The Needle by Size|find -size · ! -executable
+6|Composing Predicates|find -group · -newer · ranges
+7|Reading Between Lines|grep · pipelines · -E
+8|The Singular Line|sort · uniq -u · uniq -c
+9|Ghosts in the Binary|strings · grep
+10|The Encoded Message|base64 -d

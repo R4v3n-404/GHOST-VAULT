@@ -1,0 +1,3 @@
+H1	Extensions are labels, not proof. Inspect what is actually inside each file.
+H2	`file` reports the type from the bytes. Combine it with a glob or `find`.
+H3	`file drop/*`   then `cat` the one marked `ASCII text`

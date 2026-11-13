@@ -1,0 +1,13 @@
+STAGE 00 — FIRST CONTACT
+========================
+
+The archive was split into eleven vaults. This is the entry point.
+One file in your home directory contains the key to Stage 01.
+
+Skill: ls, cat, pwd
+
+WHEN YOU HAVE THE KEY
+  exit
+  ./play.sh login 1
+
+Type mission to read this again, hint for a nudge, exit to leave.
